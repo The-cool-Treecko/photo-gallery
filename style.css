@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: linear-gradient(yellow, yellowgreen, greenyellow, green)
+}
+
+.type1 {
+    width: 256px;
+    height: 192px;
+}
+
+.type2 {
+    width: 512px;
+}
+
+.type3 {
+    width: 1316px;
+}
+
+img {
+    border-style: groove;
+    border-width: 10px;
+}
